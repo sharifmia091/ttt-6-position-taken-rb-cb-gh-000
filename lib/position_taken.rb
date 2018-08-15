@@ -1,1 +1,3 @@
-# code your #position_taken? method here!
+# code your #position_taken?(board,index) method here!
+def position_taken?(board,index)
+end
